@@ -2,7 +2,7 @@
 
 C3 bundle for vim, this bundle provides syntax highlighting and
 improved indentation.
-
+Provide syntax highlighting and similar IDE features for working with C3 specific file types.
 
 ## Installation
 

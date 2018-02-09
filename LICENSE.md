@@ -1,6 +1,6 @@
 The MIT License
 
-Copyright (c) 2010-2018 Google, Inc. http://angularjs.org
+Copyright (c) 2010-2018 Couscous, Inc. https://c3-bachr.github.io/allthingsanalytics/
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
